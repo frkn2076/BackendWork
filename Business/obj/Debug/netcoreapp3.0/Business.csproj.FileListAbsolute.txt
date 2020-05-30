@@ -1,0 +1,11 @@
+C:\Users\Furkan\source\repos\BackendSide\Business\bin\Debug\netcoreapp3.0\Business.deps.json
+C:\Users\Furkan\source\repos\BackendSide\Business\bin\Debug\netcoreapp3.0\Business.dll
+C:\Users\Furkan\source\repos\BackendSide\Business\bin\Debug\netcoreapp3.0\Business.pdb
+C:\Users\Furkan\source\repos\BackendSide\Business\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Furkan\source\repos\BackendSide\Business\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\Furkan\source\repos\BackendSide\Business\obj\Debug\netcoreapp3.0\Business.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\BackendSide\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\BackendSide\Business\obj\Debug\netcoreapp3.0\Business.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\BackendSide\Business\obj\Debug\netcoreapp3.0\Business.csproj.CopyComplete
+C:\Users\Furkan\source\repos\BackendSide\Business\obj\Debug\netcoreapp3.0\Business.dll
+C:\Users\Furkan\source\repos\BackendSide\Business\obj\Debug\netcoreapp3.0\Business.pdb

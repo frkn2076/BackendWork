@@ -1,0 +1,7 @@
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.deps.json
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Debug\netcoreapp3.0\DataAccess.pdb

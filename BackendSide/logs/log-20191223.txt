@@ -1,0 +1,5 @@
+2019-12-23 20:17:34.116 +03:00 [Warning] Failed to determine the https port for redirect.
+2019-12-23 20:18:09.054 +03:00 [Warning] Failed to determine the https port for redirect.
+2019-12-23 20:30:19.818 +03:00 [Warning] Failed to determine the https port for redirect.
+2019-12-23 20:38:13.991 +03:00 [Warning] Failed to determine the https port for redirect.
+2019-12-23 20:42:54.287 +03:00 [Warning] Failed to determine the https port for redirect.

@@ -1,0 +1,10 @@
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Release\netcoreapp2.1\DataAccess.deps.json
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Release\netcoreapp2.1\DataAccess.runtimeconfig.json
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Release\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Release\netcoreapp2.1\DataAccess.dll
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\bin\Release\netcoreapp2.1\DataAccess.pdb
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Release\netcoreapp2.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Release\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Release\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Release\netcoreapp2.1\DataAccess.dll
+C:\Users\Furkan\source\repos\BackendSide\DataAccess\obj\Release\netcoreapp2.1\DataAccess.pdb

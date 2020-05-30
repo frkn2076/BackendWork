@@ -1,0 +1,117 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Furkan\\source\\repos\\BackendSide\\BackendSide\\obj\\netcoreapp3.0-ps6.4.5.0.deps.proj": {}
+  },
+  "projects": {
+    "C:\\Users\\Furkan\\source\\repos\\BackendSide\\BackendSide\\obj\\netcoreapp3.0-ps6.4.5.0.deps.proj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Furkan\\source\\repos\\BackendSide\\BackendSide\\obj\\netcoreapp3.0-ps6.4.5.0.deps.proj",
+        "projectName": "netcoreapp3.0-ps6.4.5.0.deps",
+        "projectPath": "C:\\Users\\Furkan\\source\\repos\\BackendSide\\BackendSide\\obj\\netcoreapp3.0-ps6.4.5.0.deps.proj",
+        "packagesPath": "C:\\ProgramData\\PostSharp\\NuGetFallback",
+        "outputPath": "C:\\Users\\Furkan\\source\\repos\\BackendSide\\BackendSide\\obj\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Furkan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "dependencies": {
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.DiaSymReader.Native": {
+              "target": "Package",
+              "version": "[1.7.0, )"
+            },
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "NuGet.Frameworks": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "NuGet.Packaging": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "NuGet.Versioning": {
+              "target": "Package",
+              "version": "[5.2.0, )"
+            },
+            "System.Buffers": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.Memory": {
+              "target": "Package",
+              "version": "[4.5.3, )"
+            },
+            "System.Numerics.Vectors": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "System.Reflection.Emit": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Reflection.Emit.Lightweight": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Runtime.CompilerServices.Unsafe": {
+              "target": "Package",
+              "version": "[4.5.2, )"
+            },
+            "System.Runtime.Loader": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "System.Security.Permissions": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "System.Threading.AccessControl": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
